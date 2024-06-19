@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(253, 225, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+iframe{
+    margin: 0 auto;
+    display: block;
+}
+
+a {color:deeppink;
+text-decoration: none;}
+
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color:purple;
+}
+
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+
+.CVHeading{
+    font-style: normal;
+    font-size: 17px;
+}
+
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.center{text-align: center;}
+.italix{font-style: italic;}
+
+.miku{color:aqua;}
+.kaga{color:yellow}
+.luka{color:rgb(255, 163, 179)}
+.kaito{color:blue}
+.meiko{color:red;}
+.gumi{color:green}
+
+.caption{
+    font-style: italic;
+    font-size: 14px;
+}
